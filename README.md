@@ -14,7 +14,8 @@ Atualmente, sigo atuando na area de dados, enquanto venho me dedicando cada dia 
 ## 👨‍💻 Formação
 
 - 🎓 Engenharia de Controle e Automação — Faculdade Engenheiro Salvador Arena
-- 📚 Bootcamp Santander - Back-end Python (Cursando)
+- 📚 MBA em Tecnologia em Negocios: IA, Data Science e Big Data
+- 📚 Bootcamp Bradesco - GenAI, Dados & Cyber
 
 ## 🛠️ Habilidades Técnicas
 
