@@ -1,7 +1,7 @@
 # Olá, eu sou a Marina Castro! 👋
 
-Sou formada em Engenharia de Controle e Automação e me descobri apaixonada por tecnologia, sempre tendo aprendizado contínuo. Ao longo da minha trajetória, desenvolvi habilidades em dados, atuando como Analista de Dados e Engenheira de Analytics.
-Atualmente, sigo atuando na area de dados, enquanto venho me dedicando cada dia mais ao desenvolvimento de habilidades em Engenharia de Software, com foco em Desenvolvimento Full Stack. 
+Atualmente cursando MBA em Tecnologia para Negocios: IA, Data Science e Big Data, formada em Engenharia de Controle e Automação agora quero me manter sempre tendo aprendizado contínuo. Ao longo da minha trajetória, desenvolvi habilidades em dados, atuando como Analista de Dados e Engenheira de Analytics.
+Atualmente, sigo atuando na area de dados, enquanto venho me dedicando cada dia mais ao desenvolvimento de habilidades em IA, com foco em Dados. 
   
   ##
  
